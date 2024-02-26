@@ -28,7 +28,5 @@ public class Main {
         else
             System.out.println("Introduced data is wrong!");
 
-        System.out.println(userInput.indexOf(" "));
-        System.out.println(userInput.lastIndexOf(" "));
     }
 }
